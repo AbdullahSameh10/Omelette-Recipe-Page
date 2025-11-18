@@ -41,11 +41,7 @@ The `/assets` folder contains all the required images already optimized for web 
 ## Built With
 
 - HTML5  
-- CSS3 (Custom properties, Flexbox, CSS Grid)  
-- React - JS library  
-- Next.js - React framework  
-- Styled Components  
-
+- CSS3
 ---
 
 ## What I Learned
